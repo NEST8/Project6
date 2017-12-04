@@ -2,7 +2,7 @@
 @charset "UTF-8"
 
 
-#header
+header
 {
 font-size: 20px; font-weight: 240px; font-weight: 40px;
 }
@@ -11,3 +11,8 @@ body {
 
 	background-color: 8560a8;
 }
+
+main {
+
+	color: white;
+} 
