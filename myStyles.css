@@ -11,13 +11,22 @@ body {
 	background-color: 8560a8;
 }
 
-main {
-
+ul {
+	font-size: 25px;
 	color: white;
-} 
+} 	
 
 h1 {
 
 	font-size: 50px;
 	color: white;
+	text-align: center;
+}
+
+h2 {
+
+font-size: 50px;
+	color: white;
+	text-align: center;
+
 }
